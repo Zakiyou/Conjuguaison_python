@@ -9,7 +9,7 @@ Ensure you have Python 3.x installed on your system. You can download it from th
 
 1. Clone the repository or download the project files.
 2. Install the required libraries using pip:
-    
+     ```
     pip install tkinter
     pip install nltk
     pip install verbecc
